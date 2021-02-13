@@ -1,6 +1,6 @@
 ## 👋 Hi, there
 
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web & Mobile Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on innovative team projects!
 
