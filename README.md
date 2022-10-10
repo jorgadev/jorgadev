@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jorgic
+- 👀 I’m interested in Web & Mobile Development
+- 🌱 I’m currently learning React & React Native
